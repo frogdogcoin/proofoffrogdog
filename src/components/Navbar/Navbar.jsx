@@ -14,6 +14,11 @@ const Navbar = () => {
             style={{ fontSize: "0.8rem", letterSpacing: "0.2rem" }}
             className="navbar-nav ml-auto"
           >
+          <li className="nav-item">
+            <Link to="/mint" className="nav-link">
+              Mint
+            </Link>
+          </li>
             <li className="nav-item">
               <Link to="nftrade" className="nav-link">
                 Dextools

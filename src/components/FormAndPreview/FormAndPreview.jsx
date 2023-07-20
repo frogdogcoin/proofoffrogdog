@@ -211,7 +211,7 @@ class FormAndPreview extends Component {
         <form onSubmit={this.callClaimPunkFromApp} className="pt-4 mt-1">
           <div className="row">
           <div className="col-md-12">
-            FREE Mint for first 1000 and 0.01 ETH for the Next 9000
+            FREE Mint 5000
             <div>
               <button
                 id="mintBtn22"
@@ -230,7 +230,7 @@ class FormAndPreview extends Component {
         </div>
 
           <hr className="my-4" />
-              MakotoDigital.art &copy; 2023 All rights reserved.
+              FrogDogCoin.com &copy; 2023 All rights reserved.
           <hr className="my-4" />
       </div>
     );

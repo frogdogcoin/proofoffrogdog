@@ -251,18 +251,7 @@ claimPunk = async (punkIndex) => {
     .totalSupply()
     .call();
 
-  if (totalSupply > 1000){
-    const price = window.web3.utils.toWei("0.01", "Ether") * punkIndex;
-    this.setState({ loading: true });
-      this.state.cryptoBoysContract.methods
-        .paidMint(punkIndex)
-        .send({ from: this.state.accountAddress, value: price })
-        .on("confirmation", () => {
-          localStorage.setItem(this.state.accountAddress, new Date().getTime());
-          this.setState({ loading: false });
-          window.location.reload();
-        });
-  }else{
+
     this.setState({ loading: true });
       this.state.cryptoBoysContract.methods
         .mint(punkIndex)
@@ -272,7 +261,7 @@ claimPunk = async (punkIndex) => {
           this.setState({ loading: false });
           window.location.reload();
         });
-  }
+ 
 };
 
 
