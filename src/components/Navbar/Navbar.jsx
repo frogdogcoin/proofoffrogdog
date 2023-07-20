@@ -7,7 +7,7 @@ const Navbar = () => {
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
       <div className="container">
         <Link to="/" className="navbar-brand ml-2">
-          FrogDogCoin.com
+          bnetly.com
         </Link>
         <div id="navbar" className="navbar">
           <ul
@@ -16,7 +16,7 @@ const Navbar = () => {
           >
             <li className="nav-item">
               <Link to="nftrade" className="nav-link">
-                Dextools
+                Marketplace
               </Link>
             </li>
           </ul>

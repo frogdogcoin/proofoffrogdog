@@ -33,7 +33,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
     <div>
       <div className="jumbotron">
         <h1 className="display-5">
-          FrogDogCoin.com
+          bnetly.com
         </h1>
 
         <hr className="my-4" />
@@ -62,7 +62,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
 
       <div className="container">
         <hr className="my-4" />
-        FrogDogCoin.com &copy; 2023 All rights reserved.
+        bnet &copy; 2023 All rights reserved.
         <hr className="my-4" />
       </div>
     </div>
