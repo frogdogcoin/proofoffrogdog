@@ -45,7 +45,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
 
         <hr className="my-4" />
         <a href="https://opensea.io/collection/bnet-1" >
-          <img src="https://meta.bnetly.com/images/bnetly.png" width="100%" alt="Bnetly" />
+          <img src="images/frogdoglogo.jpeg" width="100%" alt="Bnetly" />
         </a>
         <hr className="my-4" />
         <button
