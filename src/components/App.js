@@ -3,7 +3,7 @@ import { HashRouter, Route } from "react-router-dom";
 import "./App.css";
 import Web3 from "web3";
 
-import MemeGenesis from "../abis/MemeGenesis.json";
+import OPEPENAI from "../abis/OPEPENAI.json";
 
 
 import AllCryptoBoys from "./AllCryptoBoys/AllCryptoBoys";
@@ -130,9 +130,9 @@ class App extends Component {
 //        if (networkData) {
           this.setState({ loading: true });
 
-          const { abi } = require('../abis/Shibui.json');
+          const { abi } = require('../abis/OPEPENAI.json');
 
-          var smart_contract_interface = new web3.eth.Contract(abi, '0x81c08F832Fbc5716Bb3fA551D4Ee265C12bF6921')
+          var smart_contract_interface = new web3.eth.Contract(abi, '0xfFB1641d3148cadb024a6936C43343ad32f9c5a6')
 
 
           const cryptoBoysContract = smart_contract_interface;
