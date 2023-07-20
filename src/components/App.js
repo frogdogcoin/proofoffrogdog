@@ -477,7 +477,7 @@ getPunkOwner = async (punkIndex) => {
                    return null;
               }}/>
               <Route path='/opensea' component={() => {
-                   window.location.href = 'https://opensea.io/collection/frogdogcoinopepen';
+                   window.location.href = 'https://opensea.io/collection/opepenai-2';
                    return null;
               }}/>
 
