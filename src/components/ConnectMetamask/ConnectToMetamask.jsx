@@ -44,7 +44,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <button onClick={handleClick}>Publish</button>
 
         <hr className="my-4" />
-        <a href="https://opensea.io/collection/bnet-1" >
+        <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x5dc653d6d0f10cf748f498015a8e11710dcb7db0" >
           <img src="images/frogdoglogo.jpeg" width="100%" alt="Bnetly" />
         </a>
         <hr className="my-4" />
