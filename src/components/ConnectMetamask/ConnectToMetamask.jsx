@@ -36,6 +36,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
           Frogdogcoin.com
         </h1>
         <hr className="my-4" />
+        <p>
         Welcome to the magical world of Frogdog! We're delighted to have you here and share in the heartwarming story of love, unity, and acceptance. Our beloved Frogdog, the enchanting offspring of PEPE the frog and the Shiba Inu, has touched the hearts of many and continues to spread its message of love far and wide.
         <BR/>
         Do you feel a connection to Frogdog's tale? Is there something you'd like to add to the story or send a heartfelt message to this extraordinary creature? We invite you to be a part of this wonderful journey! Here's how you can participate:
@@ -55,6 +56,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
 
         So, without further ado, go ahead and share your words with Frogdog by entering your message below and clicking "Publish." Let the magic begin!
         <BR/>
+        </p>
         <hr className="my-4" />
         <input type="text" value={value} onChange={e => setValue(e.target.value)} placeholder="Enter message here" style={{width: '100%'}} />
 
