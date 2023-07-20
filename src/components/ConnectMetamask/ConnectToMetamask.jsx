@@ -57,6 +57,10 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         </button>
         <hr className="my-4" />
 
+        <a href="https://github.com/frogdogcoin" >
+          Github.com/frogdogcoin
+        </a>
+        <hr className="my-4" />
       </div>
       <hr className="my-4" />
 
