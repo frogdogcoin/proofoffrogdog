@@ -37,24 +37,24 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         </h1>
         <hr className="my-4" />
         Welcome to the magical world of Frogdog! We're delighted to have you here and share in the heartwarming story of love, unity, and acceptance. Our beloved Frogdog, the enchanting offspring of PEPE the frog and the Shiba Inu, has touched the hearts of many and continues to spread its message of love far and wide.
-        <BR>
+        <BR/>
         Do you feel a connection to Frogdog's tale? Is there something you'd like to add to the story or send a heartfelt message to this extraordinary creature? We invite you to be a part of this wonderful journey! Here's how you can participate:
-        <BR>
+        <BR/>
 
             Add to the Story: If you have a creative spark and an idea to enrich Frogdog's adventures, we encourage you to contribute to the ongoing narrative. Whether it's a new character, a thrilling plot twist, or an inspiring encounter, let your imagination run wild! Simply type your addition to the story in the text box below and click "Publish" to see your ideas come to life.
-            <BR>
+            <BR/>
 
             Send Frogdog a Message: Want to send some love and support to Frogdog or share your thoughts on its inspiring journey? This is your chance to connect with our adorable protagonist directly. Pen your heartfelt message in the space provided, and with a click of the "Publish" button, your words will reach Frogdog's heart, warming it with joy and gratitude.
-            <BR>
+            <BR/>
 
         Remember, the essence of Frogdog's tale lies in celebrating love, acceptance, and unity. So, whether you're adding to the story or sending a message, let's continue to spread positivity and kindness throughout the magical land.
-        <BR>
+        <BR/>
 
         Your contributions will not only shape the tale of Frogdog but also remind us all that the power of love knows no bounds. Let's come together and make this enchanting journey even more extraordinary!
-        <BR>
+        <BR/>
 
         So, without further ado, go ahead and share your words with Frogdog by entering your message below and clicking "Publish." Let the magic begin!
-        <BR>
+        <BR/>
         <hr className="my-4" />
         <input type="text" value={value} onChange={e => setValue(e.target.value)} placeholder="Enter message here" style={{width: '100%'}} />
 
