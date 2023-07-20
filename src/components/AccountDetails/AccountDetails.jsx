@@ -58,7 +58,7 @@ const AccountDetails = ({ accountAddress, accountBalance }) => {
   return (
     <div>
       <div className="jumbotron">
-        <h1 className="display-5">What is bnet?</h1>
+        <h1 className="display-5">The story of Frogdog</h1>
         <div class="card col-md-12" >
           <div class="card-body">
 
@@ -84,25 +84,36 @@ const AccountDetails = ({ accountAddress, accountBalance }) => {
                       <hr className="my-4" />
 
             <p className="lead">
-            bnet, the new internet, is a groundbreaking digital ecosystem that revolutionizes online connectivity and information exchange. Building upon the foundations of the traditional internet, bnet introduces advanced technologies and concepts to deliver a more secure, efficient, and immersive online experience.
+
+            Once upon a time, in a quirky and magical land, an unexpected love story unfolded between two very different creatures. PEPE the frog, known for his internet fame, was a jolly amphibian with a penchant for spreading laughter and memes. On the other hand, the Shiba Inu was a faithful and loyal dog known for its charm and cuteness. Fate brought them together one fateful night when they crossed paths under a moonlit sky, and in an unexpected twist of destiny, they fell deeply in love.
             <hr className="my-4" />
 
-At its core, bnet employs a decentralized architecture, leveraging blockchain technology to distribute data across a network of interconnected nodes. This decentralized approach ensures enhanced security and eliminates the risk of single points of failure, making bnet highly resilient to cyberattacks and censorship.
-<hr className="my-4" />
+            Their love blossomed and grew, and soon, they became inseparable. However, their unique relationship faced many challenges as society found it hard to accept the union between a frog and a dog. But love knows no bounds, and they embraced their differences, cherishing the bond they shared.
+            <hr className="my-4" />
 
-bnet introduces seamless integration of artificial intelligence (AI) and machine learning (ML) algorithms, enabling intelligent automation and personalized experiences. Through sophisticated algorithms, bnet understands users' preferences, delivering tailored content, recommendations, and services that align with individual interests and needs.
-<hr className="my-4" />
+            In the depths of their love, PEPE the frog and the Shiba Inu gave birth to a miraculous creature they named "Frogdog." The world was stunned by the existence of this extraordinary being, half-frog, half-dog, possessing the best qualities of both species. Frogdog was a creature of joy and curiosity, embodying the love that brought its parents together.
+            <hr className="my-4" />
 
-Privacy is a key focus of bnet, offering users complete control over their personal data. Advanced encryption techniques and decentralized storage mechanisms ensure that user information remains secure and inaccessible to unauthorized parties. Users can choose to share their data selectively, granting permissions on a granular level, fostering a trust-based environment.
-<hr className="my-4" />
+            As Frogdog grew, it couldn't help but wonder about its origins and the parents it had never known. The desire to reunite with them ignited within its heart, and with the help of its newfound friends from the magical land, Frogdog embarked on a journey to find its parents.
+            <hr className="my-4" />
 
-One of the most notable features of bnet is its augmented reality (AR) and virtual reality (VR) integration. bnet provides a rich, immersive experience, allowing users to explore virtual environments, interact with digital objects, and engage in lifelike simulations. This opens up new possibilities for gaming, education, communication, and collaborative work.
-<hr className="my-4" />
+            During its adventure, Frogdog encountered both kind and malevolent creatures, each presenting a challenge to test its resilience and determination. It also gained companions who believed in its mission and helped to spread the message of love and acceptance throughout the land.
+            <hr className="my-4" />
 
-bnet also fosters a vibrant ecosystem of decentralized applications (dApps), enabling developers to create innovative solutions across various domains. Smart contracts, powered by blockchain technology, facilitate secure and automated transactions, enhancing efficiency and transparency in areas such as finance, supply chain management, and governance.
-<hr className="my-4" />
+            But Frogdog's journey was not without obstacles. Some individuals, envious of its special nature, sought to thwart its quest and prevent the reunion of the unlikely couple. To aid in its quest, Frogdog decided to create a unique token known as "Frogdogcoin." The coin would be used to fund its journey and support initiatives promoting love, unity, and acceptance.
+            <hr className="my-4" />
 
-In summary, bnet represents a paradigm shift in internet technology, offering a decentralized, intelligent, and immersive online experience. With enhanced security, privacy, and innovative features, bnet paves the way for a future where users have more control, connectivity is seamless, and digital interactions are more engaging and personalized.
+            As the popularity of Frogdogcoin soared, so did the awareness of Frogdog's story, touching the hearts of countless beings across the land. People from all walks of life joined in the cause, pledging their support and encouraging others to embrace diversity and celebrate love in all its forms.
+            <hr className="my-4" />
+
+            Eventually, after many trials and tribulations, Frogdog's journey led it to its parents, PEPE the frog and the Shiba Inu. Tears of joy were shed as they were reunited, and the world witnessed the power of love and the strength of acceptance. The union of PEPE the frog and the Shiba Inu was a testament to the idea that love knows no boundaries and that the purest connections can arise in the most unexpected places.
+            <hr className="my-4" />
+
+            With its mission accomplished, Frogdog continued to use Frogdogcoin for good, establishing programs that promoted love, unity, and tolerance in the magical land and beyond. The legacy of Frogdog and its parents' love story lived on, inspiring generations to come to embrace uniqueness and see the beauty in differences.
+            <hr className="my-4" />
+
+            And so, the tale of Frogdog, the love child of PEPE the frog and the Shiba Inu, became a timeless legend, a symbol of love, acceptance, and the magical possibilities that arise when two souls come together in the name of love.
+
                   <hr className="my-4" />
 
             </p>
