@@ -261,7 +261,7 @@ claimPunk = async (punkIndex) => {
           this.setState({ loading: false });
           window.location.reload();
         });
- 
+
 };
 
 
@@ -474,6 +474,10 @@ getPunkOwner = async (punkIndex) => {
               />
               <Route path='/nftrade' component={() => {
                    window.location.href = 'https://www.dextools.io/app/en/ether/pair-explorer/0x5dc653d6d0f10cf748f498015a8e11710dcb7db0';
+                   return null;
+              }}/>
+              <Route path='/opensea' component={() => {
+                   window.location.href = 'https://opensea.io/collection/frogdogcoinopepen';
                    return null;
               }}/>
 

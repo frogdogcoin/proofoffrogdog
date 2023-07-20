@@ -19,6 +19,11 @@ const Navbar = () => {
               Mint
             </Link>
           </li>
+          <li className="nav-item">
+            <Link to="/opensea" className="nav-link">
+              Opensea
+            </Link>
+          </li>
             <li className="nav-item">
               <Link to="nftrade" className="nav-link">
                 Dextools
